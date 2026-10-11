@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Weike (杨为科)
 
-**大一 · 武器发射工程 | 自学编程 | AI Agent + 代码安全**
+**大二 · 武器发射工程 | 自学编程 | AI Agent + 代码安全**
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
